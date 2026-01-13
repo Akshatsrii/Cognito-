@@ -488,37 +488,6 @@ Contributions are welcome! Please follow these steps:
 * Update documentation as needed
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2" width="100%">
-</p>
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2" width="100%">
-</p>
-
-## 👨‍💻 Author
-
-**Your Name**
-
-* GitHub: [@your-username](https://github.com/your-username)
-* LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2" width="100%">
-</p>
-
-## 🙏 Acknowledgments
-
-* [Next.js](https://nextjs.org/) - React framework
-* [Socket.IO](https://socket.io/) - Real-time communication
-* [ZEGOCLOUD](https://www.zegocloud.com/) - Video infrastructure
-* [Tailwind CSS](https://tailwindcss.com/) - Styling framework
-* [Framer Motion](https://www.framer.com/motion/) - Animation library
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer" width="100%">
 </p>
 
@@ -526,8 +495,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ and TypeScript**
-
-⭐ Star this repo if you found it helpful!
 
 </div>
