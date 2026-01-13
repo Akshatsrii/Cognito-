@@ -1,7 +1,7 @@
 # 🕶️ Cognito — Anonymous Random Video Chat
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header" width="100%">
 </p>
 
 <div align="center">
@@ -26,7 +26,7 @@
 **Built using Next.js, Socket.IO, and ZEGOCLOUD.**
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2" width="100%">
 </p>
 
 ## ✨ Features
@@ -40,7 +40,7 @@
 * 🌙 **Dark, modern UI**
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2" width="100%">
 </p>
 
 ## 🛠️ Tech Stack
@@ -71,7 +71,7 @@
 * ZEGOCLOUD UIKit Prebuilt (WebRTC under the hood)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2" width="100%">
 </p>
 
 ## 📁 Project Structure
